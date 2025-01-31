@@ -14,11 +14,11 @@ Ayat Al-Rahman application It is the first application of the programming team.
 -----
 
 ## Technologies used 💻📏✏ :
-- == platform == -> expo 🧤💎
-- == framework == -> react native + react 🛠♟
-- == Programming language  == -> typescript + same javascript 🧵🧶
-- == status manage == -> zustand 🗂📂
-- == package manage == -> bun with bunx 🔧⚙
-- == local storage == -> MMKV react native 🛢
-- == APIs == -> tanstack 📞🔌
-- == framework css == -> tailwind css 🎨
+- ==platform== -> expo 🧤💎
+- ==framework== -> react native + react 🛠♟
+- ==Programming language== -> typescript + same javascript 🧵🧶
+- ==status manage== -> zustand 🗂📂
+- ==package manage== -> bun with bunx 🔧⚙
+- ==local storage== -> MMKV react native 🛢
+- ==APIs== -> tanstack 📞🔌
+- ==framework css== -> tailwind css 🎨
