@@ -41,7 +41,7 @@ To get started with the Ayat Al-Rahman application, follow these steps:
 1. **Clone the Repository**
    ```bash
    git clone <rhttps://github.com/The-Pixel-Code/Ayat-Al-Rahman-application.git>
-   cd ayat-al-rahman
+   cd Ayat-Al-Rahman-application
    ```
 
 2. **Install Dependencies**
@@ -65,7 +65,3 @@ We welcome contributions to enhance the Ayat Al-Rahman application. Please fork 
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to reach out if you have any questions or suggestions!
