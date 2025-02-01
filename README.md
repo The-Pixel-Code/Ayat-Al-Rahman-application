@@ -40,7 +40,7 @@ To get started with the Ayat Al-Rahman application, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone <rhttps://github.com/The-Pixel-Code/Ayat-Al-Rahman-application.git>
+   git clone https://github.com/The-Pixel-Code/Ayat-Al-Rahman-application.git
    cd Ayat-Al-Rahman-application
    ```
 
