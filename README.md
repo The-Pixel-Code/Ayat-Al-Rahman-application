@@ -55,8 +55,6 @@ To get started with the Ayat Al-Rahman application, follow these steps:
    ```bash
    bun start
    ```
-# Expo Router and Tailwind CSS
-
 
 ### Contribution
 
